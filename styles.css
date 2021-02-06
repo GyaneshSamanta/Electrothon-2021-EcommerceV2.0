@@ -1,0 +1,100 @@
+/* !Gyanesh */
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+:root {
+  --mainDark: #242325;
+  --mainGreen: #61e786;
+  --mainWhite: #fff;
+  --mainGrey: #eeeeee;
+}
+
+.text-green {
+  color: var(--mainGreen);
+}
+
+.text-slant {
+  font-family: "Caveat", cursive;
+}
+
+.navbar {
+  background: var(--mainDark) !important;
+}
+
+.green-btn {
+  color: var(--mainGreen);
+  border: 0.1rem solid var(--mainGreen);
+  background: transparent;
+}
+/* !Gyanesh */
+
+/* !Souharda */
+.green-btn:hover {
+  background-color: var(--mainGreen);
+  color: var(--mainWhite);
+}
+
+.phone-icon {
+  border: 0.1rem solid var(--mainGreen);
+  border-radius: 50%;
+  padding: 0.5rem;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  margin-top: 180px !important;
+}
+
+.price {
+  color: #fe980f;
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 10px;
+}
+/* !Souharda */
+
+/* !Chetas */
+
+.new_arriv {
+  background-color: green;
+  width: 50px;
+
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+body {
+  margin: auto;
+  color: #444411;
+}
+.pad {
+  margin-top: 30px;
+}
+
+.colorizing-wrapper {
+  position: relative;
+}
+/* !Chetas */
+
+/* !Souvik */
+
+.colorizing-wrapper .colorizing-wrapper__input {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border: none;
+  outline: none;
+  mix-blend-mode: hue;
+}
+
+.colorizing-wrapper .colorizing-wrapper__img {
+  width: 100%;
+  border-radius: 4px;
+}
+/* !Souvik */
