@@ -68,7 +68,7 @@ With a super simple User Interface, we make choosing your favorite colour easy. 
    - [x] Set Up Front End
    - [x] Create a Chatbot 
    - [x] Implement UI/UX Principles
-   - [] explore ways to implement our idea
+   - [x] explore ways to implement our idea
    
 - Day 2: Checkpoints:
    - [x] Integrate Front End and Back End
