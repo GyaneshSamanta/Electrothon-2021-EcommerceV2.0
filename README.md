@@ -10,7 +10,7 @@ Official Entry of Team 4 Musketeers, from SRM Institute of Science and Technolog
 
 ## Links to Electrothon 2021 ⚓
 
-![Logo](repository-assets/cover.png)
+![Screenshot (848)](https://user-images.githubusercontent.com/71955737/107111478-6d0e1080-6876-11eb-848a-2574af199fc8.png)
 - [Official Website](https://specnith.com/electrothon.htmle)
 - [Twitter](https://twitter.com/SPEC__NITH)
 - [Instagram](https://www.instagram.com/s.p.e.c_nith/)
