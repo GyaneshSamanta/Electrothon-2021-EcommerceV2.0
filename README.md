@@ -11,7 +11,11 @@ Official Entry of Team 4 Musketeers, from SRM Institute of Science and Technolog
 ## Links to Electrothon 2021 ⚓
 
 ![Logo](repository-assets/cover.png)
-- [Official Website](https://specnith.com/electrothon.html#pstitle)
+- [Official Website](https://specnith.com/electrothon.htmle)
+- [Twitter](https://twitter.com/SPEC__NITH)
+- [Instagram](https://www.instagram.com/s.p.e.c_nith/)
+- [Facebook](https://www.facebook.com/spec.ece/)
+- [Linkedln](https://www.linkedin.com/in/s-p-e-c-nith-40214b197/)
 
 
 
@@ -47,11 +51,6 @@ We do not really have platforms which allow people to run searches online or fil
 With a super simple User Interface and support for different languages, we make Reporting and Searching easy. Under the hood, we have a really elastically scalable system, deployed over Google Cloud Platform to handle traffic. We are using Firebase to store and export data and we have tried our level best to offer family members the smoothest experience. Currently, we are only offering support in our target country but in our future iterations we plan on expanding our services to different regions and take this idea forward, to help families find their loved ones as effortlessly as possible.
 
 ### Screenshots
-![Screenshot](repository-assets/1.png)
-![Screenshot](repository-assets/2.png)
-![Screenshot](repository-assets/3.png)
-![Screenshot](repository-assets/4.png)
-![Screenshot](repository-assets/5.png)
 
 ## Installation and Execution
 
@@ -88,16 +87,9 @@ To checkout the Web Application simply head over [here](https://findmyhuman.onli
 
 ## Technology Stack 💻
 
-- Google Cloud Platform
 - GitHub
 - HTML
 - CSS
-- JavaScript
-- Bootstrap
-- Firebase
-- Google Dialog Flow
-- Google Translate API
-- Kommunicate
   
 ### Attributions
 
@@ -119,8 +111,8 @@ To checkout the Web Application simply head over [here](https://findmyhuman.onli
 No beep-bops, only developers.
 | Name      | GitHub Profile     |
 | :------------- | :----------: |
-|  
-|  
-|  Gyanesh Samanta   | [GitHub](https://www.github.com/gyanesh-samanta-123) |
+|  Souvik Dey        | [GitHub](https://github.com/Souvikdey10) |
+|  Chetas Shree M.   | [GitHub](https://github.com/ChetasShree) |
+|  Gyanesh Samanta   | [GitHub](https://www.github.com/gyanesh-samanta-123) |- Team Lead
 |  Souharda Biswas   | [GitHub](https://www.github.com/TheSouharda) |
 
