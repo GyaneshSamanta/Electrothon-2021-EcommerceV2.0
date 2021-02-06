@@ -23,30 +23,39 @@ Official Entry of Team 4 Musketeers, from SRM Institute of Science and Technolog
 
 ### Organisational Problem Statement : Spyne.ai
 
+From the Organization: 
+
+We at Spyne.ai have been amazed by the results we have produced by simply re-purposing
+open literature, Our position in the market as a leader in the auxiliary photoshoot businesses
+has helped us amass large amounts of image data for specific business problems. We want to
+empower teams and/or individuals to use our data and join us on the journey of finding critical
+solutions.
+
+Our hope is that teams will be able to bring new approaches to our problem giving us key
+insights and we will be able to reward them for their work with not only a monetary prize but
+more importantly a chance to join our community and be a key part of our journey to #1
+computer vision startup in India.
+
+GOALS
+1. Enable talent to work on Industry problems.
+2. Find strong prospects for the Spyne.ai computer vision lab team.
+
 ## Background 📖
 
-India is home to more than 400 million children below the age of 18 years, and is considered one of the countries in which youth and children comprise more than 55% of the population. These missing children represent diverse cultures, religions, castes, communities, social and economic groups.
+India is home to more than 20 E-commerce websites, and is considered one of the countries in which youth and children comprise more than 55% of the population. With daily orders pouring in over 300 thousand in number, the market of online shoppers is increasing everyday. Within this population about 45% of all orders placed are for garments and fashion. 
 
-National Crime Records Bureau reported that one child goes missing every 8 minutes in India. It is found that over one lakh children go missing every year across our country.
-Some 174 children go missing every day. Only about 50% of them are ever found again. But the story behind these statistics is complex. The NCRB also throws up some other startling figures such as that 1,11,569 children were missing for more than a year in 2016 and only about half of the missing children were found. Girls between 12 and 18 account for 66% of the 54,328 children reported as kidnapped in 2016.
-
-Here's an incident that compelled us to come up with *Find My Human*;
-
-When Meghana, 14, was rescued after eight months, she was already 22 weeks pregnant. It took a call from her, with a mobile phone she managed to lay her hands on, for the police to track her down to Chandpur in Uttar Pradesh. Meghana belongs to Kalyan in Maharashtra. She had been abducted by a 23-year-old, a regular customer at the eatery her father worked in. They used to chat and within days of their meeting, he had convinced her to come away with him. It isn’t clear if he had promised marriage. “He said he would enrol me in a good school,” says Meghana. The man imprisoned her in a house he shared with his extended family. “He hit me and raped me every day. He wouldn’t let me leave the house,” says Meghana. Meanwhile, her parents had filed a missing child complaint. They even told the police they suspected this man, but there was no headway.
-
-Right now we have only added some statistics about children who go missing, when we add the number of adults who go missing as well, these statistics turn uglier.
+With this huge market in mind, it is essential to tap into the demographic and increase it many folds further. 
 
 
-
-## About Spyne.ai 🔧
+## About Our project 🔧
 ### What
-**Spyne.ai** is a Web Application that enables it's user to run a search for a missing Family Member. The User, assuming that they are already distressed, does not have to login and can file a report for a missing person. If a User finds someone who is lost, they can run a Search over the platform and try to find the best fit for the description that they enter as an input. The Web Application uses a Google Cloud Storage Bucket and Loadbalancers.
+**Our project** is a Web Application that enables it's user to view different garments available online, and to view different colours available for them.  
 
 ### Why
-We do not really have platforms which allow people to run searches online or file reports of missing people as efficiently, the one's that we do are not at all User Friendly and only add on to the distress that family members face. With our platform **Spyne.ai**, we promise the users to offer better accessibilty, add language support for different regions and help them find their loved ones, as soon as possible.
+We do not really have platforms which allow people to choose their tshirts or jeans in different colours, the photographers have to take extra steps to ensure that they click pictures of every available colour option to present it to people, what if there was a way to directly enter hex codes, or choose colour from a pallete and have it delivered to your home? So with this problem statement in mind, we designed our web-app. 
 
 ### How
-With a super simple User Interface and support for different languages, we make Reporting and Searching easy. Under the hood, we have a really elastically scalable system, deployed over Google Cloud Platform to handle traffic. We are using Firebase to store and export data and we have tried our level best to offer family members the smoothest experience. Currently, we are only offering support in our target country but in our future iterations we plan on expanding our services to different regions and take this idea forward, to help families find their loved ones as effortlessly as possible.
+With a super simple User Interface, we make choosing your favorite colour easy. Under the hood, we have a really simple web-app, resembling the most popular E-Commerce websites and user familiarity. We hope that anyone would be able to use our web app without any former knowledge about it. 
 
 ### Screenshots
 
@@ -57,10 +66,10 @@ With a super simple User Interface and support for different languages, we make 
 - Day 1: Checkpoints:
    - [x] Documentation
    - [x] Set Up Front End
-   - [x] Create a Chatbot
+   - [x] Create a Chatbot 
    - [x] Implement UI/UX Principles
-   - [x] Set Up Database using Firespace
-   - [x] Implement Form and Search
+   - [] explore ways to implement our idea
+   
 - Day 2: Checkpoints:
    - [x] Integrate Front End and Back End
    - [x] Deploy over Cloud
@@ -82,25 +91,25 @@ With a super simple User Interface and support for different languages, we make 
 - GitHub
 - HTML
 - CSS
+- SASS/SCSS
   
 ### Attributions
 
 - Collect.chat
-- Iconscout
-- Fireship
-- Coolors.co
 
-## Nominations for Sponsor Challenges 🤝
 
- - Hack For a Good Cause
- - What the Hack?!
- - MLH Category Prizes
-   - Best Domain Registered with Domain.com
-   - Best use of Google Cloud
+## Nominations  🤝
+
+ - Spyne.ai (Organizational problem statement prize)
+ - Winner /Runner-up
+ - best Open Innovation 
+ - best Beginners hack
+ - Category Prizes
+
 
 ## Collaborators 🤖
 
-No beep-bops, only developers.
+Only developers.
 | Name      | GitHub Profile     |
 | :------------- | :----------: |
 |  Souvik Dey        | [GitHub](https://github.com/Souvikdey10) |
