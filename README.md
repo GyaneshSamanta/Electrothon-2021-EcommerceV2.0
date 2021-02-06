@@ -25,8 +25,6 @@ Official Entry of Team 4 Musketeers, from SRM Institute of Science and Technolog
 
 ## Background 📖
 
-[![YouTube](repository-assets/yt.png)](https://youtu.be/-l6Ct00rVbs)
-
 India is home to more than 400 million children below the age of 18 years, and is considered one of the countries in which youth and children comprise more than 55% of the population. These missing children represent diverse cultures, religions, castes, communities, social and economic groups.
 
 National Crime Records Bureau reported that one child goes missing every 8 minutes in India. It is found that over one lakh children go missing every year across our country.
@@ -40,24 +38,18 @@ Right now we have only added some statistics about children who go missing, when
 
 **Find My Human aims at reuniting families by assisting in Search for the missing.**
 
-## About Find My Human 🔧
+## About Spyne.ai 🔧
 ### What
-**Find My Human** is a Web Application that enables it's user to run a search for a missing Family Member. The User, assuming that they are already distressed, does not have to login and can file a report for a missing person. If a User finds someone who is lost, they can run a Search over the platform and try to find the best fit for the description that they enter as an input. The Web Application uses a Google Cloud Storage Bucket and Loadbalancers.
+**Spyne.ai** is a Web Application that enables it's user to run a search for a missing Family Member. The User, assuming that they are already distressed, does not have to login and can file a report for a missing person. If a User finds someone who is lost, they can run a Search over the platform and try to find the best fit for the description that they enter as an input. The Web Application uses a Google Cloud Storage Bucket and Loadbalancers.
 
 ### Why
-We do not really have platforms which allow people to run searches online or file reports of missing people as efficiently, the one's that we do are not at all User Friendly and only add on to the distress that family members face. With our platform **Find My Human**, we promise the users to offer better accessibilty, add language support for different regions and help them find their loved ones, as soon as possible.
+We do not really have platforms which allow people to run searches online or file reports of missing people as efficiently, the one's that we do are not at all User Friendly and only add on to the distress that family members face. With our platform **Spyne.ai**, we promise the users to offer better accessibilty, add language support for different regions and help them find their loved ones, as soon as possible.
 
 ### How
 With a super simple User Interface and support for different languages, we make Reporting and Searching easy. Under the hood, we have a really elastically scalable system, deployed over Google Cloud Platform to handle traffic. We are using Firebase to store and export data and we have tried our level best to offer family members the smoothest experience. Currently, we are only offering support in our target country but in our future iterations we plan on expanding our services to different regions and take this idea forward, to help families find their loved ones as effortlessly as possible.
 
 ### Screenshots
 
-## Installation and Execution
-
-To checkout the Web Application simply head over [here](https://findmyhuman.online) or follow these steps.
-   1. Clone this repository.
-   2. Open index.html.
-   3. Make sure you have an active Internet Connection so the Web Application functions best (Chatbot and Database Access requires access to the Internet).
 
 
 ## Timeline ⏰
