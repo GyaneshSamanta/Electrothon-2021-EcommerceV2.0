@@ -36,7 +36,7 @@ insights and we will be able to reward them for their work with not only a monet
 more importantly a chance to join our community and be a key part of our journey to #1
 computer vision startup in India.
 
-# GOALS
+### GOALS
 1. Enable talent to work on Industry problems.
 2. Find strong prospects for the Spyne.ai computer vision lab team.
 
