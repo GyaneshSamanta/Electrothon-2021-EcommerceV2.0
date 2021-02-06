@@ -36,7 +36,7 @@ When Meghana, 14, was rescued after eight months, she was already 22 weeks pregn
 
 Right now we have only added some statistics about children who go missing, when we add the number of adults who go missing as well, these statistics turn uglier.
 
-**Find My Human aims at reuniting families by assisting in Search for the missing.**
+
 
 ## About Spyne.ai 🔧
 ### What
