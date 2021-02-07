@@ -5,6 +5,37 @@
   --mainWhite: #fff;
   --mainGrey: #eeeeee;
 }
+label{
+  position: absolute;
+  width: 45px;
+  height: 22px;
+  right: 20px;
+  top: 100px;
+  border: 2px solid;
+  border-radius: 20px;
+}
+
+label:before{
+  position: absolute;
+  content: "";
+  width: 20px;
+  height: 20px;
+  left: 1px;
+  top: 0.1px;
+  background: #000;
+  transition: 0.4s;
+  cursor: pointer;
+  border-radius: 50%;
+}
+
+label.active:before{
+  left: 24px;
+  background: #fff;
+}
+body.night{
+  background: #000;
+  color: #fff;
+}
 
 .text-green {
   color: var(--mainGreen);
