@@ -58,6 +58,8 @@ We do not really have platforms which allow people to choose their tshirts or je
 With a super simple User Interface, we make choosing your favorite colour easy. Under the hood, we have a really simple web-app, resembling the most popular E-Commerce websites and user familiarity. We hope that anyone would be able to use our web app without any former knowledge about it. 
 
 ### Screenshots
+![index](https://user-images.githubusercontent.com/71955737/107137554-a22c6880-6933-11eb-9bf2-ee5740c7432c.jpeg)
+![show-her-tho](https://user-images.githubusercontent.com/71955737/107137561-b2444800-6933-11eb-9534-898311f9e31b.jpeg)
 
 
 
