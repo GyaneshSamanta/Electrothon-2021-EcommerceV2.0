@@ -23,6 +23,9 @@
       })(window, document);
     </script>
   </head>
+  <header> 
+    <label id="dark-change"></label>
+  </header>
 
   <body>
     <!-- !Navbar -->
@@ -129,5 +132,13 @@
       integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
       crossorigin="anonymous"
     ></script>
+    <script>
+      var content = document.getElementsByTagName('body')[0];
+      var darkMode = document.getElementById('dark-change');
+      darkMode.addEventListener('click',function(){
+        darkMode.classList.toggle('active');
+        content.classList.toggle('night');
+      })
+    </script>
   </body>
 </html>
