@@ -39,6 +39,7 @@ computer vision startup in India.
 ### GOALS
 1. Enable talent to work on Industry problems.
 2. Find strong prospects for the Spyne.ai computer vision lab team.
+
 **Link to our website:https://b2me.netlify.app/**
 ## Background 📖
 
