@@ -98,6 +98,12 @@ body.night{
   font-weight: bold;
 }
 
+.nav-item:hover {
+  background-color: var(--mainGreen);
+  color: #000;
+  transition: ease-in 200ms;
+}
+
 body {
   margin: auto;
   color: #444411;
